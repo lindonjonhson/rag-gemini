@@ -1,0 +1,11 @@
+chromadb
+python-dotenv
+langchain_community
+langchain-text-splitters
+pypdf
+google-generativeai
+pypdf
+PyPDF2
+fastapi
+uvicorn
+numpy
